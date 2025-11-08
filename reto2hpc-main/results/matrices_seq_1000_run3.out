@@ -1,0 +1,21 @@
+=== MULTIPLICACIÓN DE MATRICES OPTIMIZADA ===
+Tamaño de matriz: 1000x1000
+Memoria inicial: 3316 kB
+
+Memoria después de crear matrices: 15092 kB
+Tiempo de generación de matrices: 29080.00 microsegundos
+Memoria después de generar matrices: 15220 kB
+
+--- ALGORITMO ORIGINAL ---
+Tiempo de multiplicación original: 1.548357 segundos
+Memoria durante multiplicación original: 15220 kB
+
+--- ALGORITMO OPTIMIZADO ---
+Tiempo de multiplicación optimizada: 0.583600 segundos
+Memoria durante multiplicación optimizada: 15220 kB
+
+=== RESULTADOS DE BENCHMARK ===
+Speedup: 2.65x
+Mejora de rendimiento: 62.3%
+Memoria final: 15220 kB
+=== PROGRAMA COMPLETADO EXITOSAMENTE ===

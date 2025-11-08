@@ -1,0 +1,10 @@
+Para el desarrollo de la presente actividad se estima una dedicación 
+de 4 horas totales. Consiste en realizar la implementación de una solución
+aplicando optimización a nivel de CPU y memoria sobre las implementaciones
+de Multiplicación de Matrices previamente desarrolladas de forma paralela.
+Realizar también la caracterización (perfilado) de la aplicación mínimo 
+para memoria y CPU, y también medir el
+rendimiento en dos maquinas diferentes (Benchmark). Implementar 
+concurrencia mediante OpenMP y realizar pruebas de despeño y mostrar los
+ resultados en documento en ambas máquinas. Finalmente se debe sustentar 
+ en clase.

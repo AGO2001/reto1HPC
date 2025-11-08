@@ -1,0 +1,24 @@
+=== MULTIPLICACIÓN DE MATRICES CON OPENMP OPTIMIZADA ===
+Tamaño de matriz: 256x256
+Número de hilos: 1
+Hilos disponibles: 1
+Memoria inicial: 3788 kB
+
+Memoria después de crear matrices: 4556 kB
+Tiempo de generación de matrices: 519.00 microsegundos
+Memoria después de generar matrices: 4556 kB
+
+--- ALGORITMO OPENMP SIMPLE ---
+Tiempo de multiplicación OpenMP simple: 0.012056 segundos
+Memoria durante multiplicación simple: 4684 kB
+
+--- ALGORITMO OPENMP OPTIMIZADO ---
+Tiempo de multiplicación OpenMP optimizada: 0.008961 segundos
+Memoria durante multiplicación optimizada: 4684 kB
+
+=== RESULTADOS DE BENCHMARK ===
+Speedup: 1.35x
+Eficiencia: 134.54%
+Mejora de rendimiento: 25.7%
+Memoria final: 4684 kB
+=== PROGRAMA COMPLETADO EXITOSAMENTE ===
